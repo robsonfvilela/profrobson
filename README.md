@@ -1,6 +1,6 @@
 # Read-me
 
-Blog criado em Quarto usando RStudio.
+Blog criado em Quarto usando RStudio. Usei o vídeo [Blogging with Quarto: a 10 minute getting started tutorial](https://www.youtube.com/watch?v=YoKjBcuUP0s) como referência.
 
 ## 1. Acesso ao Blog
 
