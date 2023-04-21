@@ -1,0 +1,19 @@
+---
+title: "About"
+image: avatar.png
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/robsonfvilela
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/robson-ferreira-vilela-21682151/
+    - icon: github
+      text: Github
+      href: https://github.com/robsonfvilela
+
+---
+
+About this blog
